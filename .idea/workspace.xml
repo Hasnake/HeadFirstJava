@@ -2,47 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="148e71e7-7d2e-4520-a4e8-0324224bfc2d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter2/DayTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter2/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter2/weeksday.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadJavaChapter2/DVDPlayer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadJavaChapter2/DVDPlayerTestDrive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadJavaChapter2/Day.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadJavaChapter2/DayTestDrive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadJavaChapter2/DaysExercise.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadJavaChapter2/Dog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadJavaChapter2/DogTestDrive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadJavaChapter2/DrumKit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadJavaChapter2/DrumKitTestDrive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadJavaChapter2/Echo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadJavaChapter2/EchoTestDrive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadJavaChapter2/GameLauncher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadJavaChapter2/GuessGame.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadJavaChapter2/Movie.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadJavaChapter2/MovieTestDrive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadJavaChapter2/Player.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadJavaChapter2/TapeDeck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HeadJavaChapter2/TapeDeckTestDrive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/DayTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/DaysExercise.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Dog.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/DVDPlayer.class" afterPath="$PROJECT_DIR$/src/Chapter2/DVDPlayer.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/DVDPlayer.java" afterPath="$PROJECT_DIR$/src/Chapter2/DVDPlayer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/DVDPlayerTestDrive.class" afterPath="$PROJECT_DIR$/src/Chapter2/DVDPlayerTestDrive.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/DVDPlayerTestDrive.java" afterPath="$PROJECT_DIR$/src/Chapter2/DVDPlayerTestDrive.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Day.java" afterPath="$PROJECT_DIR$/src/Chapter2/Day.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/DogTestDrive.java" afterPath="$PROJECT_DIR$/src/Chapter2/DogTestDrive.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/DrumKit.java" afterPath="$PROJECT_DIR$/src/Chapter2/DrumKit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/DrumKitTestDrive.java" afterPath="$PROJECT_DIR$/src/Chapter2/DrumKitTestDrive.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Echo.java" afterPath="$PROJECT_DIR$/src/Chapter2/Echo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/EchoTestDrive.java" afterPath="$PROJECT_DIR$/src/Chapter2/EchoTestDrive.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/GameLauncher.java" afterPath="$PROJECT_DIR$/src/Chapter2/GameLauncher.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/GuessGame.java" afterPath="$PROJECT_DIR$/src/Chapter2/GuessGame.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Movie.java" afterPath="$PROJECT_DIR$/src/Chapter2/Movie.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MovieTestDrive.java" afterPath="$PROJECT_DIR$/src/Chapter2/MovieTestDrive.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Player.java" afterPath="$PROJECT_DIR$/src/Chapter2/Player.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/TapeDeck.java" afterPath="$PROJECT_DIR$/src/Chapter2/TapeDeck.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/TapeDeckTestDrive.java" afterPath="$PROJECT_DIR$/src/Chapter2/TapeDeckTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter1/BeerSong.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter1/Example.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter1/Loopy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter1/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter1/MyFirstApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter1/PoolPuzzleOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter1/Shuffle1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter3/TestArrays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter3/Triangle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HeadJavaChapter2.iml" afterPath="$PROJECT_DIR$/HeadFirstJava.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HeadJavaChapter2/Chapter2/DaysExercise.class" afterPath="$PROJECT_DIR$/out/production/HeadJavaChapter2/Chapter2/DaysExercise.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -59,6 +29,16 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BeerSong.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Chapter1/BeerSong.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Echo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chapter2/Echo.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/src/Chapter2/DogTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -129,21 +109,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="weeksday.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="weeksday.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chapter2/weeksday.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DVDPlayerTestDrive.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter2/DVDPlayerTestDrive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -294,7 +264,7 @@
       <recent name="$PROJECT_DIR$/src/Chapter2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DaysExercise (1)">
+  <component name="RunManager" selected="Application.BeerSong">
     <configuration default="false" name="EchoTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Chapter2.EchoTestDrive" />
@@ -313,21 +283,6 @@
     <configuration default="false" name="DaysExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="DaysExercise" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="HeadJavaChapter2" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="DayTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="DayTestDrive" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -368,6 +323,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Chapter2.DayTestDrive" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="HeadJavaChapter2" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BeerSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Chapter1.BeerSong" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -587,17 +562,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.EchoTestDrive" />
       <item index="1" class="java.lang.String" itemvalue="Application.DaysExercise" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DayTestDrive" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DaysExercise (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DayTestDrive (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DaysExercise (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DayTestDrive (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BeerSong" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DaysExercise (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DayTestDrive (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.EchoTestDrive" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DaysExercise" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DayTestDrive" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BeerSong" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DaysExercise (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DayTestDrive (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.EchoTestDrive" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DaysExercise" />
       </list>
     </recent_temporary>
   </component>
@@ -662,14 +637,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter2/Movie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1014,7 +981,7 @@
     <entry file="file://$PROJECT_DIR$/src/Chapter2/DogTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1031,6 +998,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter1/BeerSong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
           <folding />
         </state>
       </provider>
