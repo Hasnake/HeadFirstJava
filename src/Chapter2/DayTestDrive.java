@@ -5,7 +5,9 @@ package Chapter2;
  */
 class DayTestDrive {
     public static void main(String[] args) {
+        //1.Create seven instances a Day object SAMPLE: Day three = new Day();
         Day one = new Day();
+        //2. Assign numerical value to each day of the week SAMPLE: three.dayNum = 3;
         one.dayNum = 1;
         Day two = new Day();
         two.dayNum = 2;
@@ -20,6 +22,7 @@ class DayTestDrive {
         Day seven = new Day();
         seven.dayNum = 7;
 
+       // 3.) Create method using if & else conditionals to determine what each day’s suffix is (ie. 1st, 7th) SAMPLE: six.determineSuffix();
         one.determineSuffix();
         two.determineSuffix();
         three.determineSuffix();
