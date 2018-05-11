@@ -23,6 +23,8 @@ public class Triangle {
                 System.out.println(" = " + ta[x].area);
 
                 x = x + 1;
+//                x+=1;
+//                x++;
             }
 
             int y = x;
