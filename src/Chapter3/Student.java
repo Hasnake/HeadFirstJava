@@ -1,31 +1,24 @@
 package Chapter3;
 
 /**
- * Created by hasnake on 5/10/18.
+ * Created by hasnake on 5/15/18.
  */
 public class Student {
+    String[] name = {"Fred", "Sally", "Timmy", "Pat", "Phil"};
+    double[] examScore = {87.9, 90.0, 12.1, 75.5, 61.8};
+    char gradeLetter;
 
-    String  name;
-
-    public static void main(String[] args) {
-        int x = 0;
-
-        Student[] st = new Student[5];
-        String [] name = {"Fred", "Sally", "Timmy", "Pat", "Phil"};
-        double [] examScore = {87.9, 90.0, 12.1, 75.5, 61.8};
-        char [] gradeLetter={'B','A','F','C','D'};
-
-
-
-        while (x < 5) {
-
-            st[x] = new Student();
-            System.out.println(name[x]+" "+examScore[x]+" "+gradeLetter[x]);
-
-
-            x++;
+    void grade(double score){
+        if(score >= 90) {
+            gradeLetter = 'A';
+        } else if (score > 80) {
+            gradeLetter = 'B';
+        } else if (score > 70) {
+            gradeLetter = 'C';
+        } else if (score > 60) {
+            gradeLetter = 'D';
+        } else {
+            gradeLetter = 'F';
         }
-
-
     }
 }

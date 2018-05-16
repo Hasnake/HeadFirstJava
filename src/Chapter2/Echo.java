@@ -9,3 +9,5 @@ public class Echo {
         System.out.println("helloooo...");
     }
 }
+
+//The method is in the Echo class and the main class is in the Test Drive.
