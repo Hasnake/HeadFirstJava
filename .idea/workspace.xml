@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="148e71e7-7d2e-4520-a4e8-0324224bfc2d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/DiceRollGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/Chapter6/ArrayListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstJava/Chapter6/ArrayListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter6/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter6/ArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/DiceRollGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/DiceRollGame.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +29,8 @@
       <file leaf-file-name="DiceRollGameHaile.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chapter5/DiceRollGameHaile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="78" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="20" selection-end-column="78" />
+            <state relative-caret-position="510">
+              <caret line="34" column="64" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -51,8 +47,8 @@
       <file leaf-file-name="Dice.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chapter5/Dice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            <state relative-caret-position="45">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -69,8 +65,8 @@
       <file leaf-file-name="DiceRollGame.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Chapter5/DiceRollGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="330">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -174,8 +170,8 @@
         <option value="$PROJECT_DIR$/src/Chapter5/DiceRollGameHaile.java" />
         <option value="$PROJECT_DIR$/src/Chapter6/Arraylist.java" />
         <option value="$PROJECT_DIR$/src/Chapter6/ArrayListDemo.java" />
-        <option value="$PROJECT_DIR$/src/Chapter5/DiceRollGame.java" />
         <option value="$PROJECT_DIR$/src/Chapter5/Dice.java" />
+        <option value="$PROJECT_DIR$/src/Chapter5/DiceRollGame.java" />
       </list>
     </option>
   </component>
@@ -444,9 +440,9 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2936137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2936137" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32906976" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.35903427" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.35903427" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26604387" />
@@ -798,22 +794,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter5/DiceRollGameHaile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="78" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="20" selection-end-column="78" />
+        <state relative-caret-position="510">
+          <caret line="34" column="64" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter5/Dice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter5/DiceRollGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="330">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>

@@ -22,8 +22,8 @@ public class DiceRollGame {
             dicevalue[i] = myDice[i].rollDice();
         }
 
-        Dice myWinner = new Dice();
-        myWinner.determineWinner(dicevalue);
+        Dice d = new Dice();
+        d.determineWinner(dicevalue);
 
     }
 }
