@@ -15,7 +15,7 @@ public class DiceRollGame {
         myDice[2] = new Dice();
 
 
-        int[] dicevalue = new int[myDice.length];
+        int[] dicevalue = new int[3];
 
 
         for (int i = 0; i < myDice.length; i++) {
