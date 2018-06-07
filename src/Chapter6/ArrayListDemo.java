@@ -15,16 +15,25 @@ public class ArrayListDemo {
         myList.add(40);
 
 
-        myList.add(2,25);// adding element 25 at third position
-        myList.remove(3);//removing element index at position
+        myList.add(2,25);//Add: adding element 25 at third position
+        myList.remove(3);//Remove:removing element index at position
+        boolean isIn=myList.contains(15);//Contains:Find out if it conatins something,it returns true or false.
+        boolean isempty=myList.isEmpty();//isEmpty:Find out if the list is empty or not,it returns true or false.
+        int indexofmynum=myList.indexOf(22);//IndexOf:Findout the index of an object in the arrayList.
+
 
 
         // let us print all the elements available in list
         for (Integer number : myList) {
             System.out.println("Number = " + number);
 
+
         }
         System.out.println("The size of myList array is :"+myList.size());
+        System.out.println("is my number in the list :"+isIn);
+        System.out.println("is my list empty :"+isempty);
+        System.out.println("index of my number in the list is :"+indexofmynum);
+
     }
 }
 

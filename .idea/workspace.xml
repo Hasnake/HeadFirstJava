@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="148e71e7-7d2e-4520-a4e8-0324224bfc2d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/DiceRollGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/Chapter5/Dice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/Chapter5/DiceRollGameHaile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstJava/Chapter5/DiceRollGameHaile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/Chapter5/DiceTestDrive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/Dice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/DiceRollGameHaile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/DiceRollGameHaile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/DiceTestDrive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/Chapter6/ArrayListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstJava/Chapter6/ArrayListDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter6/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter6/ArrayListDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,20 +33,53 @@
       <file leaf-file-name="DiceRollGameHaile.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chapter5/DiceRollGameHaile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            <state relative-caret-position="300">
+              <caret line="20" column="78" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="20" selection-end-column="78" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayListDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayListDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chapter6/ArrayListDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="23" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="34" />
-              <folding>
-                <element signature="e#234#243#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="480">
+              <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dice.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter5/Dice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter3/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="60" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiceRollGame.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Chapter5/DiceRollGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentTestDrive.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter3/StudentTestDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -80,10 +110,13 @@
       <find>addition</find>
       <find>subtraction</find>
       <find>toyota</find>
+      <find>storedDiceRolls</find>
     </findStrings>
     <replaceStrings>
       <replace>subtract</replace>
       <replace>v</replace>
+      <replace>randomValue</replace>
+      <replace>dicevalue</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -92,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Movie.java" />
         <option value="$PROJECT_DIR$/src/MovieTestDrive.java" />
         <option value="$PROJECT_DIR$/src/DaysSuffixTestDrive.java" />
         <option value="$PROJECT_DIR$/src/DaysExercise.java" />
@@ -139,10 +171,11 @@
         <option value="$PROJECT_DIR$/src/Chapter5/DiceeTestDrive.java" />
         <option value="$PROJECT_DIR$/src/Chapter5/DiceTestDrive.java" />
         <option value="$PROJECT_DIR$/src/Chapter5/counterLoop.java" />
-        <option value="$PROJECT_DIR$/src/Chapter5/Dice.java" />
         <option value="$PROJECT_DIR$/src/Chapter5/DiceRollGameHaile.java" />
         <option value="$PROJECT_DIR$/src/Chapter6/Arraylist.java" />
         <option value="$PROJECT_DIR$/src/Chapter6/ArrayListDemo.java" />
+        <option value="$PROJECT_DIR$/src/Chapter5/DiceRollGame.java" />
+        <option value="$PROJECT_DIR$/src/Chapter5/Dice.java" />
       </list>
     </option>
   </component>
@@ -157,7 +190,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,14 +214,25 @@
               <item name="HeadFirstJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="HeadFirstJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HeadFirstJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HeadFirstJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HeadFirstJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HeadFirstJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -220,7 +265,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListDemo">
+  <component name="RunManager" selected="Application.DiceRollGame">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -257,6 +302,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="DiceRollGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5.DiceRollGame" />
+      <module name="HeadFirstJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="DiceRollGameHaile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter5.DiceRollGameHaile" />
       <module name="HeadFirstJava" />
@@ -270,17 +326,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="counterLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter5.counterLoop" />
-      <module name="HeadFirstJava" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -358,19 +403,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.counterLoop" />
       <item itemvalue="Application.DiceRollGameHaile" />
       <item itemvalue="Application.Arraylist" />
       <item itemvalue="Application.ArraylistExercise" />
       <item itemvalue="Application.ArrayListDemo" />
+      <item itemvalue="Application.DiceRollGame" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DiceRollGame" />
+        <item itemvalue="Application.DiceRollGameHaile" />
         <item itemvalue="Application.ArrayListDemo" />
         <item itemvalue="Application.ArraylistExercise" />
         <item itemvalue="Application.Arraylist" />
-        <item itemvalue="Application.DiceRollGameHaile" />
-        <item itemvalue="Application.counterLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -401,25 +446,55 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2936137" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32906976" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3593023" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.35903427" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.264013" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26604387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3976744" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" id="Properties" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info id="Nl-Palette" order="2" />
+      <window_info anchor="right" id="Properties" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32906976" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Properties" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32906976" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2936137" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26604387" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Nl-Palette" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3976744" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.35903427" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32906976" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.22196262" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -461,7 +536,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Dog.java" />
     <entry file="file://$PROJECT_DIR$/src/DaysSuffix.java" />
     <entry file="file://$PROJECT_DIR$/src/DaysExercisewithif.java" />
     <entry file="file://$PROJECT_DIR$/src/DaysSuffix.java" />
@@ -657,20 +731,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter5/Dicee.java" />
     <entry file="file://$PROJECT_DIR$/src/Chapter5/DiceeTestDrive.java" />
-    <entry file="file://$PROJECT_DIR$/src/Chapter3/StudentTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter3/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter3/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -707,7 +767,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter5/Dice.java" />
     <entry file="file://$PROJECT_DIR$/src/Chapter1/BeerSong.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -715,30 +774,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter5/DiceRollGameHaile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter6/Arraylist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-          <folding>
-            <element signature="e#239#248#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter6/Arraylist.java" />
     <entry file="file://$PROJECT_DIR$/src/Chapter6/ArrayListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="23" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="34" />
-          <folding>
-            <element signature="e#234#243#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="480">
+          <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter3/StudentTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter3/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="60" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter5/DiceRollGameHaile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="78" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="20" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter5/Dice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter5/DiceRollGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
