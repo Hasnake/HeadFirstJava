@@ -222,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DiceRollGame">
+  <component name="RunManager" selected="Application.complexdice">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -368,9 +368,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.complexdice" />
         <item itemvalue="Application.AdvancedDiceExercise" />
         <item itemvalue="Application.AdvancedTestDrive" />
-        <item itemvalue="Application.complexdice" />
         <item itemvalue="Application.DiceRollGame" />
         <item itemvalue="Application.DiceRollGamefive" />
       </list>
