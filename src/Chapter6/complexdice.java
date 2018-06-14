@@ -16,15 +16,6 @@ public class complexdice {
         System.out.println(Arrays.toString(myIntArray));
 
         if (    myIntArray[0] == myIntArray[1] && myIntArray[1] == myIntArray[2] ||
-                myIntArray[0] == myIntArray[1]&&myIntArray[1] == myIntArray[3]||
-                myIntArray[0] == myIntArray[1]&&myIntArray[1] == myIntArray[4]||
-                myIntArray[0] == myIntArray[2] && myIntArray[2] == myIntArray[3] ||
-                myIntArray[0] == myIntArray[2]&&myIntArray[2] == myIntArray[4]||
-                myIntArray[0] == myIntArray[3]&&myIntArray[3] == myIntArray[4]||
-
-                myIntArray[1] == myIntArray[2] && myIntArray[2] == myIntArray[3] ||
-                myIntArray[1] == myIntArray[2]&&myIntArray[2] == myIntArray[4]||
-                myIntArray[1] == myIntArray[3]&&myIntArray[3] == myIntArray[4]||
                 myIntArray[2] == myIntArray[3] && myIntArray[3] == myIntArray[4])
 
         {
