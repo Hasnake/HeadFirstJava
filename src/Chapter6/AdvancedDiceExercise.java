@@ -1,7 +1,13 @@
 package Chapter6;
 
 import java.io.*;
+//import java.io.*; imports all the classes that are defined in java.io package to your file. This enables your java program to use those classes and their methods to achieve some task.
+
 import java.util.*;
+//The util package or java provides many utility interfaces and classes for easy manipulation of in-memory data.
+//HashMap is a Map based collection class that is used for storing Key & value pairs,
+// it is denoted as HashMap<Key, Value> or HashMap<K, V>. ... You must need to import java.util.HashMap or
+// its super class in order to use the HashMap class and methods.
 
 class AdvancedDiceExercise {
 
