@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="148e71e7-7d2e-4520-a4e8-0324224bfc2d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter6/AdvancedDiceExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter6/AdvancedDiceExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter6/complexdice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter6/complexdice.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,24 +18,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AdvancedTestDrive.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter6/AdvancedTestDrive.java">
+      <file leaf-file-name="AdvancedDiceExercise.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter6/AdvancedDiceExercise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            <state relative-caret-position="-125">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdvancedDiceExercise.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chapter6/AdvancedDiceExercise.java">
+      <file leaf-file-name="ArrayListDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter6/ArrayListDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="112" selection-start-line="6" selection-start-column="112" selection-end-line="6" selection-end-column="112" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#142#160#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="412">
+              <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="complexdice.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Chapter6/complexdice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -122,11 +130,11 @@
         <option value="$PROJECT_DIR$/src/Chapter6/Dicefive.java" />
         <option value="$PROJECT_DIR$/src/Chapter6/DiceRollGamefive.java" />
         <option value="$PROJECT_DIR$/src/Chapter5/DiceRollGameHaile.java" />
-        <option value="$PROJECT_DIR$/src/Chapter6/complexdice.java" />
         <option value="$PROJECT_DIR$/src/Chapter6/GFG.java" />
         <option value="$PROJECT_DIR$/src/Chapter6/AdvancedTestDrive.java" />
         <option value="$PROJECT_DIR$/src/Chapter6/Advanced.java" />
         <option value="$PROJECT_DIR$/src/Chapter6/AdvancedDiceExercise.java" />
+        <option value="$PROJECT_DIR$/src/Chapter6/complexdice.java" />
       </list>
     </option>
   </component>
@@ -140,6 +148,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,38 +166,12 @@
               <item name="HeadFirstJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="HeadFirstJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HeadFirstJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirstJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HeadFirstJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirstJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HeadFirstJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirstJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HeadFirstJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirstJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -395,32 +379,32 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.2211838" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.12772585" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1255814" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32906976" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.35813954" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.35813954" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2753358" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2783883" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3976744" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Properties" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info id="Nl-Palette" order="2" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Properties" order="3" />
+      <window_info id="Nl-Palette" order="2" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32906976" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.2211838" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
@@ -428,29 +412,29 @@
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2936137" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Nl-Palette" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32906976" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info anchor="right" id="Properties" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32906976" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26604387" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3976744" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.35903427" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32906976" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.22196262" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26604387" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -705,13 +689,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter6/Arraylist.java" />
-    <entry file="file://$PROJECT_DIR$/src/Chapter6/ArrayListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter3/StudentTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -763,20 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter6/Advanced.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter6/complexdice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="169" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="169" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter5/DiceRollGameHaile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -784,21 +747,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter6/AdvancedTestDrive.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter6/AdvancedTestDrive.java" />
+    <entry file="file://$PROJECT_DIR$/src/Chapter6/Advanced.java" />
+    <entry file="file://$PROJECT_DIR$/src/Chapter6/ArrayListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        <state relative-caret-position="412">
+          <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter6/AdvancedDiceExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="112" selection-start-line="6" selection-start-column="112" selection-end-line="6" selection-end-column="112" />
+        <state relative-caret-position="-125">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#142#160#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter6/complexdice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
         </state>
       </provider>
     </entry>
