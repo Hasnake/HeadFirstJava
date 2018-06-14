@@ -3,7 +3,7 @@ package Chapter6;
 import java.io.*;
 import java.util.*;
 
-class GFG {
+class AdvancedDiceExercise {
 
     static HashMap<Integer, Integer> hm = new HashMap<Integer, Integer>();
 
