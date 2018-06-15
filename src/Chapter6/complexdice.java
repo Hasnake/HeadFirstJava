@@ -11,11 +11,11 @@ public class complexdice {
             random5[i] = (int) ((Math.random() * 6) + 1);
         }
         int[] myIntArray = {random5[0], random5[1], random5[2], random5[3], random5[4]};
-        System.out.println(Arrays.toString(myIntArray));
+        System.out.println("random nubers:"+Arrays.toString(myIntArray));
         //int [] myIntArray={4,4,6,4,4};
         Arrays.sort(myIntArray, 0, 5);
 
-        System.out.println(Arrays.toString(myIntArray));
+        System.out.println("Ascending order:"+Arrays.toString(myIntArray));
 
         if (    myIntArray[0] == myIntArray[1] && myIntArray[1] == myIntArray[2] &&
                 myIntArray[2] == myIntArray[3] && myIntArray[3] == myIntArray[4])
@@ -62,7 +62,6 @@ public class complexdice {
             System.out.println("Sum of the five dice values is" + ":" + sum);
         }
     }
-
 
 
 //Change the number of dice to 5
