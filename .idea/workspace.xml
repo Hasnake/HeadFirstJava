@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="148e71e7-7d2e-4520-a4e8-0324224bfc2d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/ArrayListComparisionsecondsolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter6/SortingArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/Chapter6/ArrayListComparision.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstJava/Chapter6/ArrayListComparision.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter6/ArrayListComparision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter6/ArrayListComparision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/Chapter6/ArrayListComparisionsecondsolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstJava/Chapter6/ArrayListComparisionsecondsolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/Chapter6/complexdice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter6/complexdice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter6/complexdice.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +24,8 @@
       <file leaf-file-name="AdvancedDiceExercise.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chapter6/AdvancedDiceExercise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="39" column="81" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="81" />
+            <state relative-caret-position="780">
+              <caret line="52" column="31" lean-forward="true" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,20 +55,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayListComparisionsecondsolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayListComparisionsecondsolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chapter6/ArrayListComparisionsecondsolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="15" lean-forward="true" selection-end-line="26" />
+            <state relative-caret-position="360">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="complexdice.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="complexdice.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Chapter6/complexdice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            <state relative-caret-position="330">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1845">
+              <caret line="168" column="23" selection-start-line="168" selection-start-column="23" selection-end-line="168" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortingArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter6/SortingArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -108,7 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Chapter2/EchoTestDrive.java" />
         <option value="$PROJECT_DIR$/src/Chapter2/GameLauncher.java" />
         <option value="$PROJECT_DIR$/src/Chapter2/GuessGame.java" />
         <option value="$PROJECT_DIR$/src/Chapter2/Movie.java" />
@@ -156,9 +174,10 @@
         <option value="$PROJECT_DIR$/src/Chapter6/AdvancedTestDrive.java" />
         <option value="$PROJECT_DIR$/src/Chapter6/Advanced.java" />
         <option value="$PROJECT_DIR$/src/Chapter6/AdvancedDiceExercise.java" />
-        <option value="$PROJECT_DIR$/src/Chapter6/complexdice.java" />
         <option value="$PROJECT_DIR$/src/Chapter6/ArrayListComparision.java" />
         <option value="$PROJECT_DIR$/src/Chapter6/ArrayListComparisionsecondsolution.java" />
+        <option value="$PROJECT_DIR$/src/Chapter6/SortingArray.java" />
+        <option value="$PROJECT_DIR$/src/Chapter6/complexdice.java" />
       </list>
     </option>
   </component>
@@ -212,6 +231,7 @@
       <recent name="Chapter5" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Chapter6" />
       <recent name="Chapter5" />
       <recent name="Chapter4" />
     </key>
@@ -231,20 +251,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListComparisionsecondsolution">
+  <component name="RunManager" selected="Application.complexdice">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="AdvancedDiceExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.AdvancedDiceExercise" />
-      <module name="HeadFirstJava" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="ArrayListComparision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter6.ArrayListComparision" />
@@ -270,6 +279,17 @@
     </configuration>
     <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter6.ArrayListDemo" />
+      <module name="HeadFirstJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SortingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.SortingArray" />
       <module name="HeadFirstJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -370,18 +390,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.complexdice" />
-      <item itemvalue="Application.AdvancedDiceExercise" />
       <item itemvalue="Application.ArrayListDemo" />
       <item itemvalue="Application.ArrayListComparision" />
       <item itemvalue="Application.ArrayListComparisionsecondsolution" />
+      <item itemvalue="Application.SortingArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.complexdice" />
+        <item itemvalue="Application.SortingArray" />
         <item itemvalue="Application.ArrayListComparisionsecondsolution" />
         <item itemvalue="Application.ArrayListComparision" />
         <item itemvalue="Application.ArrayListDemo" />
-        <item itemvalue="Application.complexdice" />
-        <item itemvalue="Application.AdvancedDiceExercise" />
       </list>
     </recent_temporary>
   </component>
@@ -404,18 +424,18 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.2211838" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.2206107" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.082442746" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.082442746" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32906976" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.35801527" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19028503" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19028503" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -502,20 +522,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Chapter2/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter2/DrumKit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter2/DrumKitTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -760,27 +766,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter6/AdvancedTestDrive.java" />
     <entry file="file://$PROJECT_DIR$/src/Chapter6/Advanced.java" />
+    <entry file="file://$PROJECT_DIR$/src/Chapter6/ArrayListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter6/ArrayListComparisionsecondsolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter6/AdvancedDiceExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="39" column="81" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="81" />
+        <state relative-caret-position="780">
+          <caret line="52" column="31" lean-forward="true" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter6/complexdice.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter6/ArrayListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="1845">
+          <caret line="168" column="23" selection-start-line="168" selection-start-column="23" selection-end-line="168" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -795,10 +808,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter6/ArrayListComparisionsecondsolution.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter6/SortingArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="15" lean-forward="true" selection-end-line="26" />
+        <state relative-caret-position="180">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter6/complexdice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>
