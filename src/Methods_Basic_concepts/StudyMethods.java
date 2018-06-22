@@ -1,4 +1,4 @@
-package Basic_concepts;
+package Methods_Basic_concepts;
 
 public class StudyMethods
 
@@ -11,9 +11,7 @@ public class StudyMethods
 
         methodRankPoints(255.7);  //calling a void method
         int d=0;
-        int a = 11;
-        int b = 6;
-        int c = minFunction(a, b);//calling the method that returns value.
+        int c = minimumFunction(11, 6);//calling the method that returns value.
         System.out.println("Minimum Value = " + c);
         System.out.println("Random Number:"+random(6));
         addAndSub(5,3);//calling a void method
@@ -47,7 +45,7 @@ public class StudyMethods
         System.out.println(("degree Centigrade:"+0.5556*(degreeFa-32)));
 
     }
-    public static int minFunction(int n1, int n2)
+    public static int minimumFunction(int n1, int n2)
     {
 
         int min;
